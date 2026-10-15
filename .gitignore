@@ -1,2 +1,4 @@
-/JOURNALISM.BG
-/.venv
+JOURNALISM.BG/
+.venv/
+__pycache__/
+exercises/
